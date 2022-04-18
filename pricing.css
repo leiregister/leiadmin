@@ -24,3 +24,8 @@
 .link.blue {
     color: #7856ff;
 }
+.pricing-features .box h4 {
+    align-items: center;
+    display: flex;
+    margin-bottom: 25px;
+}
