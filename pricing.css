@@ -17,3 +17,7 @@
     /* position: relative; */
     width: 100%;
 }
+@media (max-width: 1023px)
+.pricing-features .box {
+    padding: 30px 30px 70px;
+}
